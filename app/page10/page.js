@@ -47,7 +47,7 @@ function Page() {
             <div className="text-black text-base font-semibold font-['Roboto']">Connect</div>
             <div className="flex flex-col gap-6">
               <div className="text-black text-5xl font-bold font-['Roboto']">Get in Touch</div>
-              <div className="text-black text-lg font-normal font-['Roboto']">Have any questions or need assistance? We're here to help!</div>
+              <div className="text-black text-lg font-normal font-['Roboto']">Have any questions or need assistance? We are here to help!</div>
             </div>
           </div>
           <div className="flex gap-12">
@@ -56,7 +56,7 @@ function Page() {
               <div className="flex flex-col gap-6">
                 <div className="flex flex-col gap-4">
                   <div className="text-black text-[32px] font-bold font-['Roboto']">Email</div>
-                  <div className="text-black text-base font-normal font-['Roboto']">Send us an email and we'll get back to you promptly.</div>
+                  <div className="text-black text-base font-normal font-['Roboto']">Send us an email and we all get back to you promptly.</div>
                 </div>
                 <div className="text-black text-base font-normal font-['Roboto'] underline">hello@mediconnect.com</div>
               </div>

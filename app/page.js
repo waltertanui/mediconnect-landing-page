@@ -228,7 +228,7 @@ export default function Home() {
             <img className="w-20 h-20" src="https://via.placeholder.com/80x80" />
             <div className="self-stretch h-[124px] flex-col justify-start items-center gap-4 flex">
               <div className="self-stretch h-[84px] flex-col justify-start items-center flex">
-                <div className="self-stretch text-black text-xl font-semibold font-['Roboto'] leading-[30px]">We're hiring!</div>
+                <div className="self-stretch text-black text-xl font-semibold font-['Roboto'] leading-[30px]">We are hiring!</div>
                 <div className="self-stretch text-black text-lg font-normal font-['Roboto'] leading-[27px]">Join our team and make a difference in healthcare.</div>
               </div>
               <div className="self-stretch text-black text-base font-normal font-['Roboto'] leading-normal">Open positions</div>
@@ -243,7 +243,7 @@ export default function Home() {
             <img className="w-20 h-20" src="https://via.placeholder.com/80x80" />
             <div className="self-stretch h-[124px] flex-col justify-start items-center gap-4 flex">
               <div className="self-stretch h-[84px] flex-col justify-start items-center flex">
-                <div className="self-stretch text-black text-xl font-semibold font-['Roboto'] leading-[30px]">We're hiring!</div>
+                <div className="self-stretch text-black text-xl font-semibold font-['Roboto'] leading-[30px]">We are hiring!</div>
                 <div className="self-stretch text-black text-lg font-normal font-['Roboto'] leading-[27px]">Join our team and make a difference in healthcare.</div>
               </div>
               <div className="self-stretch text-black text-base font-normal font-['Roboto'] leading-normal">Open positions</div>

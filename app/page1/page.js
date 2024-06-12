@@ -46,7 +46,7 @@ function page() {
   <div className="h-[864px] px-16 py-28 bg-white flex-col justify-start items-start gap-20 flex">
     <div className="self-stretch justify-start items-center gap-20 inline-flex">
       <div className="grow shrink basis-0 flex-col justify-start items-start gap-6 inline-flex">
-        <div className="self-stretch text-black text-[40px] font-bold font-['Roboto'] leading-[48px]">Enhance Your Networking Experience with MediConnect's Robust Capabilities</div>
+        <div className="self-stretch text-black text-[40px] font-bold font-['Roboto'] leading-[48px]">Enhance Your Networking Experience with MediConnects Robust Capabilities</div>
         <div className="self-stretch text-black text-lg font-normal font-['Roboto'] leading-[27px]">Connect with healthcare professionals through forums, groups, and direct messaging. Share knowledge, collaborate, and explore new opportunities in the medical field.</div>
       </div>
       <img className="grow shrink basis-0 h-[640px]" src="https://via.placeholder.com/616x640" />

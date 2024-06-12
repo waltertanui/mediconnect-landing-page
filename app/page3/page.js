@@ -82,7 +82,7 @@ function Page() {
               <h5 className="text-2xl font-bold text-black">Section 5</h5>
               <p className="text-base font-normal text-black">Morbi sed imperdiet in ipsum, adipiscing elit dui lectus. Tellus id scelerisque est ultricies ultricies. Duis est sit sed leo nisl, blandit elit sagittis. Quisque tristique consequat quam sed. Nisl at scelerisque amet nulla purus habitasse.</p>
               <blockquote className="flex gap-5 p-5 border-l-4 border-black">
-                <p className="text-xl font-normal text-black">"Ipsum sit mattis nulla quam nulla. Gravida id gravida ac enim mauris id. Non pellentesque congue eget consectetur turpis. Sapien, dictum molestie sem tempor. Diam elit, orci, tincidunt aenean tempus."</p>
+                <p className="text-xl font-normal text-black"> vffvcxvcx</p>
               </blockquote>
               <h6 className="text-xl font-bold text-black">Section 6</h6>
               <p className="text-base font-normal text-black">Nunc sed faucibus bibendum feugiat sed interdum. Ipsum egestas condimentum mi massa. In tincidunt pharetra consectetur sed duis facilisis metus. Etiam egestas in nec sed et. Quis lobortis at sit dictum eget nibh tortor commodo cursus.</p>

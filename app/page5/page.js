@@ -144,7 +144,7 @@ function page() {
   <div className="h-[566px] px-16 py-28 bg-white flex-col justify-start items-center gap-20 flex">
     <div className="h-[342px] flex-col justify-start items-center gap-8 flex">
       <div className="w-[140px] h-14 relative" />
-      <div className="self-stretch text-center text-black text-2xl font-bold font-['Roboto'] leading-[33.60px]">Working on the MediConnect project has been an incredible experience. The platform's innovative features and user-friendly interface make it a game-changer in the healthcare industry.</div>
+      <div className="self-stretch text-center text-black text-2xl font-bold font-['Roboto'] leading-[33.60px]">Working on the MediConnect project has been an incredible experience. The platforms innovative features and user-friendly interface make it a game-changer in the healthcare industry.</div>
       <div className="h-[120px] flex-col justify-start items-center gap-4 flex">
         <img className="w-14 h-14 rounded-full" src="https://via.placeholder.com/56x56" />
         <div className="self-stretch h-12 flex-col justify-start items-start flex">
@@ -195,7 +195,7 @@ function page() {
     <div className="self-stretch justify-start items-center gap-20 inline-flex">
       <div className="grow shrink basis-0 flex-col justify-start items-start gap-6 inline-flex">
         <div className="self-stretch h-[167px] flex-col justify-start items-start gap-6 flex">
-          <div className="self-stretch text-black text-5xl font-bold font-['Roboto'] leading-[57.60px]">Discover the Project's Benefits</div>
+          <div className="self-stretch text-black text-5xl font-bold font-['Roboto'] leading-[57.60px]">Discover the Projects Benefits</div>
           <div className="self-stretch text-black text-lg font-normal font-['Roboto'] leading-[27px]">Join us and revolutionize healthcare networking, skills, and job opportunities.</div>
         </div>
         <div className="pt-4 justify-start items-start gap-4 inline-flex">

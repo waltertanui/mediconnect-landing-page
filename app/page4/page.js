@@ -251,7 +251,7 @@ function page() {
     <div className="h-[255px] flex-col justify-start items-start gap-6 flex">
       <div className="self-stretch h-[167px] flex-col justify-start items-start gap-6 flex">
         <div className="self-stretch text-white text-5xl font-bold font-['Roboto'] leading-[57.60px]">Inspiring Success Stories and Case Studies</div>
-        <div className="self-stretch text-white text-lg font-normal font-['Roboto'] leading-[27px]">Discover how MediConnect has transformed healthcare professionals' careers and experiences.</div>
+        <div className="self-stretch text-white text-lg font-normal font-['Roboto'] leading-[27px]">Discover how MediConnect has transformed healthcare professionals careers and experiences.</div>
       </div>
       <div className="pt-4 justify-start items-start gap-4 inline-flex">
         <div className="px-6 py-3 bg-black border border-black justify-center items-center gap-2 flex">
@@ -295,7 +295,7 @@ function page() {
       </div>
       <div className="grow shrink basis-0 flex-col justify-start items-start gap-8 inline-flex">
         <div className="justify-start items-start gap-1 inline-flex" />
-        <div className="self-stretch text-black text-xl font-bold font-['Roboto'] leading-7">MediConnect has revolutionized the way healthcare professionals collaborate and share knowledge. It's a game-changer!</div>
+        <div className="self-stretch text-black text-xl font-bold font-['Roboto'] leading-7">MediConnect has revolutionized the way healthcare professionals collaborate and share knowledge. Its a game-changer!</div>
         <div className="flex-col justify-start items-start gap-4 flex">
           <img className="w-14 h-14 rounded-full" src="https://via.placeholder.com/56x56" />
           <div className="flex-col justify-start items-start flex">
